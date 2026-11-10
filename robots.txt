@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coastalinvest.blog/sitemap.txt
